@@ -1,7 +1,5 @@
-<img width="120" height="120" alt="logo" src="https://github.com/user-attachments/assets/00b92550-69ba-4cfa-a3df-afe20eb3aa24" /> EYES-WITHOUT-COMPROMISE
- EYES-WITHOUT-COMPROMISE
-
-**EYES WITHOUT COMPROMISE** is a cybersecurity project built for **advanced threat detection and real-time monitoring**. It provides deep visibility into systems **without sacrificing speed or privacy**, empowering ethical hackers and security teams with reliable, uncompromised protection.
+<img width="120" height="120" alt="logo" src="https://github.com/user-attachments/assets/00b92550-69ba-4cfa-a3df-afe20eb3aa24" /> 
+ **EYES WITHOUT COMPROMISE** is a cybersecurity project built for **advanced threat detection and real-time monitoring**. It provides deep visibility into systems **without sacrificing speed or privacy**, empowering ethical hackers and security teams with reliable, uncompromised protection.
 
 ---
 
